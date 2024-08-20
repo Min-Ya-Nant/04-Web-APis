@@ -1,7 +1,7 @@
 
 # မင်္ဂလာပါ ခင်ဗျာ စိတ်ပါဝင်စားစွာ လာရောက်ဖတ်ရှုတဲ့ အတွက် ကြိုဆိုပါတယ်။ 
 
-## 03-JavaScript ထဲမှာ ဒီခေါင်းစဥ် 4-ခုကို သင်ယူကြရမှာ ဖြစ်ပါတယ်။
+## 04-Web-APis ထဲမှာ ဒီခေါင်းစဥ် 4-ခုကို သင်ယူကြရမှာ ဖြစ်ပါတယ်။
 
 - 01-Activities
 - 02-Challenge
@@ -9,12 +9,17 @@
 - 04-Module-Project 
 
 * 01-Activities မှာတော့ 
-- 01-Conditional-Statements
-- 02-Iteration
-- 03-Functions
-- 04-Scope
-- 05-Object-This 
+- 01-Create-Appened
+- 02-Event-Listeners
+- 03-Timers-Intervals
+- 04-Data-Attributes
+- 05-Local-Storage
 ဒီ ၅-မျိုး ကို ထပ်ပြီး လေ့လာကြရပါမယ်။
+
+* Algorithms ထံမှာ
+01. log-even-nums
+02. countdown
+03. sum-array ဒီသုံးခု ပါဝင်ပါတယ်။
 
 ### အထူးမှာကြားချက်
 * 02-Challenge 
